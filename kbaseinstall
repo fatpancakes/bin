@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+# Requirements: bash, git, pacman
+mkdir "/home/$USER/cool"
